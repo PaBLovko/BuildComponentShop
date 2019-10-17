@@ -53,21 +53,23 @@
 
 Начальная страница, откуда можно взаимодействовать с данным приложением.
 
-![](https://github.com/ParkhomenkoArtyom750504/Dotabuff/b..)
+![](https://github.com/VadimTagiev750504/BuildComponentShop/blob/master/Mockups/VisitPage.png)
 
 Результат поиска по наименованию продукции.
 
-![](https://github.com/ParkhomenkoArtyom750504/Dotabuff/b..)
+![](https://github.com/VadimTagiev750504/BuildComponentShop/blob/master/Mockups/SearchResultPage.png)
 
 Вкладка "Корзина".
 
-![](https://github.com/ParkhomenkoArtyom750504/Dotabuff/b..)
+![](https://github.com/VadimTagiev750504/BuildComponentShop/blob/master/Mockups/Shopping%20basket.png)
 
 ## 3.2 Интерфейс связи
 Взаимодействие между клиентом и сервером будет осуществлятся при помощи http-протокола.
 # 4 Функциональные особенности системы
 - Парсинг(сбор данных с последующей их обработкой и анализом) данных JSON-формата с веб-ресурса Remmers.by.
-- Организация многопоточности в сборе информации.
+- Отображение каталога товаров.
+- Работа с корзиной : добавление/удаление товаров из оной.
+- Поиск товаров в каталоге.
 - Сохранение однажды полученной информации в базу данных MySQL для исключения траты времени на повторный ее поиск.
 # 5 Нефункциональные особенности системы
 ## 5.1 Атрибуты качества
