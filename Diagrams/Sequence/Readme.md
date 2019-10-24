@@ -13,4 +13,4 @@
 ![](https://github.com/VadimTagiev750504/BuildComponentShop/blob/master/Diagrams/Sequence/Adding%20products%20in%20basket.png)
 # 1.5 Удаление товара из корзины
 
-![](https://github.com/VadimTagiev750504/BuildComponentShop/blob/master/Diagrams/Sequence/Deleting%20products%20from%20basket.png)
+![](https://github.com/VadimTagiev750504/BuildComponentShop/blob/master/Diagrams/Sequence/Delete%20products.png)
