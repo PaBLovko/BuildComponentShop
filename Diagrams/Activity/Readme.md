@@ -15,3 +15,11 @@
 Если пользователь запрашивает какие-либо данные, то после их сбора системой они отобразятся.
 
 ![](https://github.com/VadimTagiev750504/BuildComponentShop/blob/master/Diagrams/Activity/View%20.png)
+## 1.5 Добавление товара в корзину
+Если пользователь нажимает на кнопку добавления товара в корзину, то этот товар отобразится в корзине.
+
+![](https://github.com/VadimTagiev750504/BuildComponentShop/blob/master/Diagrams/Activity/Adding%20products%20in%20basket.png)
+## 1.6 Удаление товара из корзины
+Если пользователь нажимает на кнопку удаления товара из корзины, то этот товар отобразится в корзине.
+
+![](https://github.com/VadimTagiev750504/BuildComponentShop/blob/master/Diagrams/Activity/Deleting%20products%20from%20basket.png)
