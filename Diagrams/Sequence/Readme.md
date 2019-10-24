@@ -1,5 +1,5 @@
 # 1. Диаграммы последовательностей
-# 1.1 Парсинг игровых данных
+# 1.1 Парсинг необходимых данных
 
 ![](https://github.com/VadimTagiev750504/BuildComponentShop/blob/master/Diagrams/Sequence/Parsing_info.png)
 # 1.2 Поиск информации
